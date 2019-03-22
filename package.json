@@ -10,7 +10,7 @@
     "@babel/core": "^7.0.0-beta.53",
     "@babel/node": "^7.0.0-beta.53",
     "@babel/preset-env": "^7.0.0-beta.53",
-    "@babel/preset-stage-2": "^7.0.0-beta.53",
+    "@babel/preset-stage-2": "^7.0.0",
     "eslint": "^5.1.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.13.0",
