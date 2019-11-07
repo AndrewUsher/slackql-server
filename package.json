@@ -9,7 +9,7 @@
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.53",
     "@babel/node": "^7.0.0-beta.53",
-    "@babel/preset-env": "^7.0.0-beta.53",
+    "@babel/preset-env": "^7.7.1",
     "@babel/preset-stage-2": "^7.0.0-beta.53",
     "eslint": "^5.1.0",
     "eslint-config-standard": "^11.0.0",
